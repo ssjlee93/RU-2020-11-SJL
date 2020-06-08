@@ -358,7 +358,7 @@ function del() {
         message: "Which table would you like to delete?",
         choices: ["Departments", "Roles", "Employees", "Go back", "Exit"]
     }).then(answer => {
-        switch (answer.update) {
+        switch (answer.delete) {
             case "Go back":
                 start();
                 break;
