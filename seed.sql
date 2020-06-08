@@ -10,7 +10,7 @@ value ("manager", 900000, 1),("full stack developer", 100000, 1),
 insert into employees (first_name, last_name, role_id, manager_id)
 value("A", "One", 1, 5),("A1", "One1", 2, 1),
 ("B", "Two", 3, 5),("B1", "Two1", 4, 3),
-("C","Three",5, null),("C1", "Three1", 6, 3),("C2", "Three2", 7, 3),
+("C","Three",5, null),("C1", "Three1", 6, 5),("C2", "Three2", 7, 5),
 ("D","Four",8, 5),
 ("E","Five",10, 5),
 ("F","Six",12, 5) ;
