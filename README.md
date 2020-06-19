@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/static/v1?label=Node.&message=js&color=brightgreen)
 
 ## Employəə Trackər
-This command-line application trɑcks əmployəəs using MySQL and Node.js. In the application,the user can view, add, update, and delete employees. 
+This command-line application trɑcks əmployəəs using MySQL and Node.js. In the application,the user can view, add, update, and delete əmployəəs. 
 
 ## Table of Contents 
 
@@ -50,7 +50,7 @@ MIT?
 ## Developments 
 
 #### Adding əmployəəs 
- I want to show a table with id from roles table and id from əmployəə table. When I ask you to add, I am asking for the id of the role that an empəmployəə  takes and an id of manager  - another əmployəə. I could not find a way to print both id columns. I could only show the id of the roles. 
+ I want to show a table with id from roles table and id from əmployəə table. When I ask you to add, I am asking for the id of the role that an əmployəə  takes and an id of manager  - another əmployəə. I could not find a way to print both id columns. I could only show the id of the roles. 
 
 #### Updating
 When updating, I want the user to leave the fields empty if the fields will not be updated. I could not find a way to leave the fields empty by default. 
